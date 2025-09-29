@@ -1,6 +1,12 @@
-Copyright 1993,1998,2014 Toyoda Masashi (mtoyoda@acm.org)
+CREDITS
+=======
 
-Everyone is permitted to do anything on this program including copying,
-modifying, and improving, unless you try to pretend that you wrote it.
-i.e., the above copyright notice has to appear in all copies.
-THE AUTHOR DISCLAIMS ANY RESPONSIBILITY WITH REGARD TO THIS SOFTWARE.
+This program is based on "sl" (SL version 5.03)
+Original Author: Toyoda Masashi (mtoyoda@acm.org)
+Original Copyright: 1993, 1998, 2014-2015
+
+Original sl available at: https://github.com/mtoyoda/sl
+
+Modifications: 
+- Six seven
+- Modified by Josh Kelley, 2025
